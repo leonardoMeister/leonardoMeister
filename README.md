@@ -2,6 +2,17 @@
 
 <h3>Seja bem vindo ao meu perfil, é um prazer telo por aqui!</h3>
 
+
+
+<div align="center">
+  <a href="https://github.com/leonardoMeister">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoMeister&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMeister&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
 Meu dilema de vida é trabalhar para tornar o mundo um lugar mais honesto, sem corrupção, livre e sustentável, que todas as pessoas possam desfrutar de suas vidas com alegria através da tecnologia.
 <hr>
 
